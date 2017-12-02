@@ -95,7 +95,7 @@ $ docker exec -it <containerName> sh
 ```
 
 ```sh
-> cat "<h1><center>Docker For Developers<center></h1>" >> index.html
+> echo "<h1><center>Docker For Developers<center></h1>" >> index.html
 ```
 
 ```sh

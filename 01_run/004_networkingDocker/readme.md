@@ -39,7 +39,7 @@ $ docker network create home
 ```
 
 ```sh
-$ docker network inspect home
+$ docker network create --internal home
 ```
 
 ### Assign IP and run with Custom network
