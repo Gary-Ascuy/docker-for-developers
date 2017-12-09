@@ -31,7 +31,7 @@ $ docker rmi helo-world
 ### Load Docker Image from File using --input
 
 ```sh
-$ cat helo-world.image | docker load
+$ docker load --input helo-world.image
 ```
 
 ### Load Docker Image from File using Pipe
