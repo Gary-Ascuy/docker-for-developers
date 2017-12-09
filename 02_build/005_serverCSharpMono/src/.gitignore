@@ -1,0 +1,8 @@
+# Files
+*.exe
+*.dll
+*.nupkg
+*.xml
+
+# Folders
+src/nancy/packages/
